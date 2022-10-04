@@ -1,0 +1,8 @@
+C:\Users\camil\OneDrive\Documents\Douglas\OneDrive - Douglas College\Intro to Programming\Week_4\Assigment_1\Seconds\Seconds\bin\Debug\Seconds.exe.config
+C:\Users\camil\OneDrive\Documents\Douglas\OneDrive - Douglas College\Intro to Programming\Week_4\Assigment_1\Seconds\Seconds\bin\Debug\Seconds.exe
+C:\Users\camil\OneDrive\Documents\Douglas\OneDrive - Douglas College\Intro to Programming\Week_4\Assigment_1\Seconds\Seconds\bin\Debug\Seconds.pdb
+C:\Users\camil\OneDrive\Documents\Douglas\OneDrive - Douglas College\Intro to Programming\Week_4\Assigment_1\Seconds\Seconds\obj\Debug\Seconds.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Documents\Douglas\OneDrive - Douglas College\Intro to Programming\Week_4\Assigment_1\Seconds\Seconds\obj\Debug\Seconds.csproj.SuggestedBindingRedirects.cache
+C:\Users\camil\OneDrive\Documents\Douglas\OneDrive - Douglas College\Intro to Programming\Week_4\Assigment_1\Seconds\Seconds\obj\Debug\Seconds.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Documents\Douglas\OneDrive - Douglas College\Intro to Programming\Week_4\Assigment_1\Seconds\Seconds\obj\Debug\Seconds.exe
+C:\Users\camil\OneDrive\Documents\Douglas\OneDrive - Douglas College\Intro to Programming\Week_4\Assigment_1\Seconds\Seconds\obj\Debug\Seconds.pdb
